@@ -10,5 +10,5 @@ on the generated code tree and the input probabilities
 
 
 To run use:
-1) gcc -o main.c ./a 
+1) gcc -o main-2.c ./a 
 2) a.out < sample_input.dat
