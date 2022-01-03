@@ -9,6 +9,6 @@ the bit code assigned to each symbol, and 4) the expected bits per symbols based
 on the generated code tree and the input probabilities
 
 
-To run use 
-gcc -o main.c ./a 
-a.out < sample_input.dat
+To run use:
+1) gcc -o main.c ./a 
+2) a.out < sample_input.dat
